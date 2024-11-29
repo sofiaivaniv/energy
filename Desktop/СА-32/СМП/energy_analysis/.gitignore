@@ -1,0 +1,20 @@
+# Python package files
+*.egg-info/
+*.egg-info/*
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Distribution
+dist/
+build/
