@@ -1,6 +1,6 @@
 # Energy Consumption Analysis Package
 ## Course Project
-**Authors:** Софія Івнів, Вікторія Яковлєва
+**Authors:** Софія Іванів, Вікторія Яковлєва
 
 ## Description
 This package provides tools for analyzing and forecasting energy consumption data. It includes functionality for data processing, statistical analysis, forecasting, and visualization of energy consumption patterns.
